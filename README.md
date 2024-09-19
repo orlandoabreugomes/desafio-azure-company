@@ -21,9 +21,13 @@ Neste projeto, foi criada uma instância no Azure para o MySQL, e o banco de dad
 15. Os dados foram agrupados por gerente na nova tabela "manager employee", e a contagem do número de colaboradores supervisionados por cada gerente foi realizada;
 16. Colunas irrelevantes para o relatório final foram removidas.
 
-Por fim, foi gerado um relatório no Power BI com os dados devidamente limpos e transformados.
+Por fim, foi gerado um relatório no Power BI com os dados devidamente limpos e transformados:
+
+
 
 ![Print do Relatório](https://github.com/orlandoabreugomes/desafio-azure-company/blob/main/outcome/relatorio_azure_company.png)
+
+
 
 📒[Relatório no formato PDF](https://github.com/orlandoabreugomes/desafio-azure-company/blob/main/outcome/desafio_azure_company.pdf)
 
